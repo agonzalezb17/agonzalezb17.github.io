@@ -1,0 +1,158 @@
+div id="column-left"div id="column-left"div id="column-left"div id="column-left"div id="column-left"div id="column-left"div id="column-left"div id="column-left"div id="column-left"div id="column-left"@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600&display=swap');
+*{
+	padding: 0px;
+	margin: 0px;
+}
+ul {
+	line-height: 20pt;
+}
+body {
+	font-family: "Source Sans Pro";
+	font-weight: 400;
+	padding: 0px;
+	margin: 0px;
+}
+#header {
+	border-bottom: 1px solid #ECECEC;
+	float: left;
+	width: 100%;
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 10px;
+	background-color: #FBFBFB;
+}
+#title {
+	font-family: "Source Sans Pro";
+	font-size: 60pt;
+	text-align: center;
+	font-weight: 600;
+	letter-spacing: -2px;
+}
+#slogan {
+	font-family: "Source Sans Pro";
+	font-size: 16pt;
+	text-align: center;
+	font-weight: 400;
+	letter-spacing: -1.4px;
+	text-transform: uppercase;
+}
+.content {
+	font-family: "Source Sans Pro";
+	width: 100%;
+	float: left;
+}
+.content-header {
+	font-family: "Source Sans Pro";
+	font-size: 20pt;
+	width: 50%;
+	padding-left: 25%;
+	padding-right: 25%;
+	float: left;
+	letter-spacing: -1px;
+	border-bottom: 1px solid #ECECEC;
+	margin-bottom: 20px;
+}
+.feature {
+	font-family: "Source Sans Pro";
+	width: 100%;
+	float: left;
+}
+.feature-column-1 {
+	width: 33.3%; 
+	float: left;
+}
+.feature-column-2 {
+	width: 33.3%; 
+	float: left;
+}
+.feature-column-3 {
+	width: 33.3%; 
+	float: left;
+}
+.feature-column-block {
+	font-family: "Source Sans Pro";
+	float: left;
+	margin-top: 0%;
+	margin-right: 5%;
+	margin-left: 5%;
+	margin-bottom: 20px;
+	padding-top: 10px;
+	padding-right: 5%;
+	padding-left: 5%;
+	padding-bottom: 10px;
+	border: 1px solid #ECECEC;
+	border-radius: 10px;
+	width: 80%;
+	min-height: 270px;
+}
+.feature-column-block-title {
+	margin: 0;
+	padding: 0;
+	font-family: "Source Sans Pro";
+	font-size: 20pt;
+	text-align: center;
+	font-weight: 600;
+	letter-spacing: -1px;
+	text-transform: uppercase;
+}
+.content-left {
+	width: 40%;
+	padding-left: 5%;
+	padding-right: 5%;
+	display: block;
+	float: left;
+	margin-bottom: 20px;
+}
+.content-right {
+	width: 40%;
+	margin: 0;
+	display: block;
+	float: left;
+	padding-left: 5%;
+	padding-right: 5%;
+	margin-bottom: 20px;
+}
+.content-center {
+	width: 50%;
+	margin: 0;
+	display: block;
+	float: left;
+	padding-left: 25%;
+	padding-right: 25%;
+	margin-bottom: 20px;
+}
+.content-title {
+	margin-top: 10px;
+	padding-top: 0;
+	padding-right: 0;
+	padding-left: 0;
+	padding-bottom: 10px;
+	font-family: "Source Sans Pro";
+	font-size: 20pt;
+	text-align: center;
+	font-weight: 600;
+	letter-spacing: -1px;
+	text-transform: uppercase;
+	border-bottom: 1px;
+	border-bottom-color: #ECECEC;
+	border-bottom-style: solid;
+}
+.content-img {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.following-steps {
+	background-color: #F9F9F9;
+	width: 30%;
+	float: left;
+	padding-left: 35%;
+	padding-right: 35%;
+	font-size: 14pt;
+}
+.following-steps ol li {
+	line-height: 25pt;
+}
